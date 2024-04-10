@@ -1,13 +1,12 @@
 # Depura el Código: Python y Pandas
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Depura el Código: Python y Pandas`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Sumérgete en el fascinante mundo de la depuración de código con Python y Pandas. El objetivo es claro: aprender a identificar y corregir errores en proyectos de procesamiento de datos existentes. A través de un proyecto práctico de exploración de datos con Python y Pandas, adquirirás habilidades esenciales para enfrentar desafíos reales, garantizando el correcto funcionamiento de proyectos y consolidando tu experiencia en el mundo del procesamiento de datos.
 
 ## Instrucciones
 
